@@ -11,6 +11,6 @@ The use of transfer learning model was found to be ill suited to making predicti
 ## Data
 Note that the data has not been added to this repo, to retireve the data please download the "icml_face_data.csv" file from the following URL: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
 
-## Environemnt
+## Environment
 Recreate the required environment for this notebook using the yaml file in anaconda prompt via code:
 conda env create -f environment.yml
