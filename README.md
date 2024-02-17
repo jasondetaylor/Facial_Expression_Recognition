@@ -9,7 +9,7 @@ As this was an exploratory notebook, 2 methods of modeling were tested:
 2. Relatively shallow custom CNN's tranined on the facial expression dataset provided.
 
 ### Findings
-The use of transfer learning model was found to be ill suited to making predictions on this data, however our CNN's perfomed reasonably well with our best model scoring 59% accuracy placing 13th out of the 56 entires in the kaggle competition.
+The use of transfer learning model was found to be ill suited to making predictions on this data, however the custom CNN's perfomed reasonably well with our best model scoring 59% accuracy placing 13th out of the 56 entires in the kaggle competition.
 
 ## Data
 Note that the data has not been added to this repo, to retireve the data please download the "icml_face_data.csv" file from the following URL: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
